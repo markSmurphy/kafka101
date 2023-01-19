@@ -1,0 +1,33 @@
+{
+  "name": "kafka101",
+  "version": "1.0.0",
+  "description": "Apache Kafka in Confluent Cloud - Publisher and Consumer examples",
+  "main": "kafka101.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markSmurphy/kafka101.git"
+  },
+  "keywords": [
+    "Apache",
+    "Kafka",
+    "Confluent",
+    "Cloud",
+    "Publisher",
+    "Consumer",
+    "examples"
+  ],
+  "author": "Mark Murphy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markSmurphy/kafka101/issues"
+  },
+  "homepage": "https://github.com/markSmurphy/kafka101#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "create-html": "^4.1.0",
+    "lorem-ipsum": "^2.0.8"
+  }
+}
