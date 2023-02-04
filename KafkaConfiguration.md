@@ -2,25 +2,31 @@
 
 ## Overview
 
-### Cluster
+### Cluster Details
 
-#### Identification
-
+Identification:
 Name: `cluster_kafka101`
 Cluster ID: `lkc-qr50xp`
 
-#### Endpoints
-
+*Endpoints*:
 Bootstrap server: `pkc-lz6r3.northeurope.azure.confluent.cloud:9092`
 REST endpoint: `https://pkc-lz6r3.northeurope.azure.confluent.cloud:443`
 
 > Use the [Kafka REST API](https://confluent.cloud/environments/env-3r85rj/clusters/lkc-qr50xp/clients/new?attr=cluster%20settings&language=rest-api) to interact with your cluster and produce [records](https://docs.confluent.io/cloud/current/api.html?ajs_aid=2167f548-a74f-4ac6-9990-99bf77f39455&ajs_uid=1110189#tag%2FRecords-%28v3%29)
 
-#### Cloud details
-
+*Cloud details*:
 Provider: `AZURE`
 Region: `northeurope`
 Availability: `Single zone`
+
+---
+
+### Topics
+
+Topic name: `topic_files`
+Max size: `8388608` bytes (`8192` KB | `8` MB)
+
+---
 
 ## Create Kafka Environment
 
