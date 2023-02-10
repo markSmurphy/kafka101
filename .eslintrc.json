@@ -14,7 +14,7 @@
    "rules": {
        "indent": [
            "error",
-           4
+           3
        ],
        "handle-callback-err": [
            "error"
